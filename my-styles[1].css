@@ -1,0 +1,13 @@
+body {
+	background-color: blue
+	}
+	
+h1 {
+	color: white;
+	text-align: center;
+    font: italic 200% fantasy;
+	}
+
+img {
+	border-radius: 50%;
+}
