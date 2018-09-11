@@ -1,0 +1,61 @@
+* {
+  //border: solid 5px red;
+  //display: inline;
+}
+
+/* .mute-box {
+  padding: 0px;
+} */
+
+
+#nav-header {
+  background-color: #green;
+  height: 60px;
+  width: 200px;
+  border: solid 1px;
+  position: absolute;
+  right: 199px;
+  top: 25px;
+ 
+}
+
+
+#main-content {
+  
+  float: right;
+  top: 50px;
+  
+  
+}
+
+#list-content {
+  float: left;
+  
+}
+
+body {
+	background-color: #D3D3D3;
+  //gradient & textures;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+	}
+
+
+	
+h1 {
+	color: black;
+	text-align: center;
+    
+	}
+
+img {
+	border-radius: 50%;
+}
+
+#catPic {
+  
+}
+
+.allPics {
+  
+}

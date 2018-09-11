@@ -1,0 +1,33 @@
+* {
+  //border: solid 5px red;
+  //display: inline;
+}
+
+
+
+body {
+	background-color: #D3D3D3;
+  //gradient & textures;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+	}
+
+
+	
+h1 {
+	color: black;
+	text-align: center;
+    
+	}
+
+img {
+	border-radius: 50%;
+}
+
+#catPic {
+  
+}
+
+.allPics {
+  
+}
